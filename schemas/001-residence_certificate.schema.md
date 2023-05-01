@@ -19,3 +19,4 @@
 | cantonRegistryNumber    | int                            | 1           |                                           |                                   |
 | cantonCode              | [Canton](../types/Canton.md)   | 1           |                                           |                                   |
 | requestor               | string                         | 0..1        |                                           |                                   |
+| purpose                 | string                         | 0..1        |                                           |                                   |
